@@ -1,0 +1,5 @@
+#Executable file
+*.exe
+
+#Competitive programming helper
+.cph/
